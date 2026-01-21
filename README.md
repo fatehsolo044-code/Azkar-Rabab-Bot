@@ -1,2 +1,2 @@
-# Azkar-Rabab-Bot
+# Adkar-Rabab-Bot
 "بوت تلجرام للأذكار - صدقة جارية"
